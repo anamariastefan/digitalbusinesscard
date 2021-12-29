@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Ștefan;Ana;;;
+FN: Ștefan Ana Maria 
+ORG:MEDIST Imaging & POC;
+TITLE:Process Improvement Specialist, CRM/ERP & Digital Development
+EMAIL;type=INTERNET;type=WORK;type=pref:anamaria.stefan@medist.ro
+TEL;type=WORK;type=VOICE:+40 731 550 032
+item1.ADR;type=WORK;type=pref:;;Ion Urdareanu no.34 \nfloor 1\,\n050688\;Bucharest;Romania
+item1.X-ABADR:ro
+item2.URL;type=pref:https://medist-imaging.ro/
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
